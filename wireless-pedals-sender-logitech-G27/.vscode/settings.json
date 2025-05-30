@@ -1,0 +1,5 @@
+{
+    "cmake.ignoreCMakeListsMissing": true,
+    "idf.portWin": "COM5",
+    "idf.monitorPort": "COM5"
+}
