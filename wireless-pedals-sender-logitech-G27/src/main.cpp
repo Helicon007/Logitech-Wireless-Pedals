@@ -13,6 +13,7 @@
 
 Adafruit_ADS1115 ads;
 
+// EDIT MAC Address here!!!
 uint8_t peerAddress[] = {0xec, 0xfa, 0xbc, 0x29, 0xb9, 0x8e}; // MAC-Adresse des Empfängers
 
 // Struktur für die zu sendenden Daten
