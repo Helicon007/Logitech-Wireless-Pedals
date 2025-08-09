@@ -1,0 +1,13 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+ADS1115,MSOP-10_3x3mm_P0.5mm,1,ADS1115IDGS,
+AMS1117,SOT-223-3_TabPin2,1,AMS1117-3.3,
+C1,1206,1,22µF,
+C2,1206,1,10µF,
+"C3, C4",1206,2,1µF,
+ESP-01,ESP-01,1,ESP-01v090,
+"FB1, FB2",1206,2,FerriteBead,
+J1,PinHeader_1x05_P2.54mm_Vertical,1,Pedals,
+J2,PinHeader_1x02_P2.54mm_Vertical,1,Battery,
+"R1, R2, R3, R4",1206,4,10k,
+R5,1206,1,220k,
+R6,1206,1,100k,
