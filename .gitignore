@@ -1,3 +1,5 @@
 wireless-receiver-backups/
-wireless-sender-backups/
+
+kicad/wireless-sender/wireless-sender-backups/
+
 .DS_Store
