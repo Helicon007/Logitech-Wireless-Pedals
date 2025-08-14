@@ -2471,6 +2471,461 @@
 		)
 		(uuid "f04074a5-f95c-40c9-9181-887eb405942c")
 	)
+	(table
+		(column_count 3)
+		(border
+			(external yes)
+			(header yes)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+		)
+		(separators
+			(rows yes)
+			(cols yes)
+			(stroke
+				(width 0)
+				(type solid)
+			)
+		)
+		(column_widths 21.59 7.62 20.32)
+		(row_heights 2.54 2.54 2.54 2.54 2.54 2.54 2.54 2.54)
+		(cells
+			(table_cell "Reference"
+				(exclude_from_sim no)
+				(at 26.67 158.75 0)
+				(size 21.59 2.794)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(face "Arial")
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "8ddb9944-d296-4dbd-84f0-1a1da94f42f3")
+			)
+			(table_cell "Qty"
+				(exclude_from_sim no)
+				(at 48.26 158.75 0)
+				(size 7.62 2.794)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(face "Arial")
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "86c075ed-c90c-4a98-916d-6bf7b9604f6f")
+			)
+			(table_cell "Value"
+				(exclude_from_sim no)
+				(at 55.88 158.75 0)
+				(size 20.32 2.794)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(face "Arial")
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "e00bdf4e-95f2-4cf2-b314-906a15c60df9")
+			)
+			(table_cell "C1,C2,C3"
+				(exclude_from_sim no)
+				(at 26.67 161.29 0)
+				(size 21.59 2.794)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(face "Arial")
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "70ee8669-2a6c-442e-8ecb-d956ba981db2")
+			)
+			(table_cell "3"
+				(exclude_from_sim no)
+				(at 48.26 161.29 0)
+				(size 7.62 2.794)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(face "Arial")
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "fe3931a9-2522-4bc0-98c7-8c1eaf068ea0")
+			)
+			(table_cell "10µF"
+				(exclude_from_sim no)
+				(at 55.88 161.29 0)
+				(size 20.32 2.794)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(face "Arial")
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "28c101b4-69e1-4200-beab-9d05b3a6d977")
+			)
+			(table_cell "D1"
+				(exclude_from_sim no)
+				(at 26.67 163.83 0)
+				(size 21.59 2.794)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(face "Arial")
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "4a169602-e305-46ae-b50f-eaa74236b643")
+			)
+			(table_cell "1"
+				(exclude_from_sim no)
+				(at 48.26 163.83 0)
+				(size 7.62 2.794)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(face "Arial")
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "6f764dda-f77a-4872-b097-127f1f9d9062")
+			)
+			(table_cell "OLED_128x32"
+				(exclude_from_sim no)
+				(at 55.88 163.83 0)
+				(size 20.32 2.794)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(face "Arial")
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "97664f5b-983d-4fe8-a95a-bcbe453dbe0f")
+			)
+			(table_cell "Q1,Q2,Q3"
+				(exclude_from_sim no)
+				(at 26.67 166.37 0)
+				(size 21.59 2.794)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(face "Arial")
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "25a309f8-c315-4149-803a-b16d29ba36e4")
+			)
+			(table_cell "3"
+				(exclude_from_sim no)
+				(at 48.26 166.37 0)
+				(size 7.62 2.794)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(face "Arial")
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "09e69a6f-022e-4341-96e6-d48e6df0cd91")
+			)
+			(table_cell "BSS138"
+				(exclude_from_sim no)
+				(at 55.88 166.37 0)
+				(size 20.32 2.794)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(face "Arial")
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "267c1640-e553-4fc5-bbda-f423e3b70aa1")
+			)
+			(table_cell "R1,R2,R5,R6,R8,R9"
+				(exclude_from_sim no)
+				(at 26.67 168.91 0)
+				(size 21.59 2.794)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(face "Arial")
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "4fec20d7-b727-40f8-9131-7fb45511843c")
+			)
+			(table_cell "6"
+				(exclude_from_sim no)
+				(at 48.26 168.91 0)
+				(size 7.62 2.794)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(face "Arial")
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "ffb24630-1694-4ef7-b780-62d0dd0b8900")
+			)
+			(table_cell "1k"
+				(exclude_from_sim no)
+				(at 55.88 168.91 0)
+				(size 20.32 2.794)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(face "Arial")
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "f1f91d5f-1839-401e-985e-c6238e86b2b4")
+			)
+			(table_cell "R3,R4,R7"
+				(exclude_from_sim no)
+				(at 26.67 171.45 0)
+				(size 21.59 2.794)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(face "Arial")
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "8058e91c-a909-45ae-ac1d-c9d9c9d4557a")
+			)
+			(table_cell "3"
+				(exclude_from_sim no)
+				(at 48.26 171.45 0)
+				(size 7.62 2.794)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(face "Arial")
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "b37a46b6-26f1-41e2-9ab9-bb56fd29f51b")
+			)
+			(table_cell "470R"
+				(exclude_from_sim no)
+				(at 55.88 171.45 0)
+				(size 20.32 2.794)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(face "Arial")
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "3648c585-b76f-4bbc-99e7-361c91fcf1ed")
+			)
+			(table_cell "U1"
+				(exclude_from_sim no)
+				(at 26.67 173.99 0)
+				(size 21.59 2.794)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(face "Arial")
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "daf42be6-caa1-43bd-b1cf-880d1352bf49")
+			)
+			(table_cell "1"
+				(exclude_from_sim no)
+				(at 48.26 173.99 0)
+				(size 7.62 2.794)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(face "Arial")
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "00a04bac-72d2-487d-b3dc-a2d2be892cea")
+			)
+			(table_cell "WEMOS_D1_mini"
+				(exclude_from_sim no)
+				(at 55.88 173.99 0)
+				(size 20.32 2.794)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(face "Arial")
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "4a180519-8004-4421-902e-efbb9f060b45")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 26.67 176.53 0)
+				(size 21.59 2.794)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(face "Arial")
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "bdb8ea43-83de-45af-9440-18beeb1e1fdc")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 48.26 176.53 0)
+				(size 7.62 2.794)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(face "Arial")
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "bc93240f-66c8-4e57-a72f-75376d5253b6")
+			)
+			(table_cell ""
+				(exclude_from_sim no)
+				(at 55.88 176.53 0)
+				(size 20.32 2.794)
+				(margins 0.9525 0.9525 0.9525 0.9525)
+				(span 1 1)
+				(fill
+					(type none)
+				)
+				(effects
+					(font
+						(face "Arial")
+						(size 1.524 1.524)
+					)
+					(justify left top)
+				)
+				(uuid "11c4c07e-53f0-4946-9a3b-8af4e2bf8c06")
+			)
+		)
+	)
 	(symbol
 		(lib_id "Device:R")
 		(at 137.16 55.88 0)

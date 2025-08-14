@@ -1,0 +1,8 @@
+"Reference","Qty","Value","DNP","Exclude from BOM","Exclude from Board","Footprint","Datasheet"
+"C1,C2,C3","3","10µF","","","","Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder","~"
+"D1","1","OLED_128x32","","","","Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical",""
+"J1","1","Conn_01x05_Pin","","","","Connector_PinSocket_2.54mm:PinSocket_1x05_P2.54mm_Vertical","~"
+"Q1,Q2,Q3","3","BSS138","","","","Package_TO_SOT_SMD:SOT-23","https://www.onsemi.com/pub/Collateral/BSS138-D.PDF"
+"R1,R2,R5,R6,R8,R9","6","1k","","","","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","~"
+"R3,R4,R7","3","470R","","","","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder","~"
+"U1","1","WEMOS_D1_mini","","","","RF_Module:WEMOS_D1_mini_light","https://wiki.wemos.cc/products:d1:d1_mini#documentation"
