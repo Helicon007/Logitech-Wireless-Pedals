@@ -89,3 +89,30 @@ Weiter sollte man je nach Spiel immer überprüfen ob die Pedale auch wirklich 1
 Natürlich wäre auch eine fertige Platine schön gewesen aber wie es halt mal so ist - ich habe nur ein Lenkrad und der Prototyp funktioniert. Jeder Bastler weiß - nichts hält so lange wie ein Prototyp, sorry. Sollte es mich aber doch mal eines Tages reizen werde ich das nachliefern. Wartet aber bitte nicht darauf, da muss es mir schon sehr langweilig werden. Es war halt leicht mit dem Material was ohnehin bei mir rum fliegt etwas zu machen und die Breakout Boards vom China-Mann sind einfach unschlagbar günstig. 
 
 P.S.: 11.08.2025 und mir war es langweilig. Ich habe ein KiCAD Projekt entworfen mit einem PCB Design. Allerdings kommen hier nur der ESP-01 und der Wemos als fertiges Modul zum Einsatz, alles weitere ist in SMD ausgelegt. 1206er Bauteile mit hoffentlich lötfreundlichen Pads. 
+
+<img src="./pictures/bare_PCBs.jpeg" width="480"> <img src="./pictures/PCBs.jpeg" width="480"> 
+
+So sieht es vor dem Verlöten auf der Hot Plate (G3061) aus.
+
+<img src="./pictures/soldering_raw.JPG" width="480"> <img src="./pictures/soldering_raw_pads.JPG" width="480"> 
+
+
+<img src="./pictures/solder_plate.jpeg" width="960"> 
+
+
+<img src="./pictures/soldering_1.JPG" width="480">  <img src="./pictures/soldering_2.JPG" width="480"> 
+
+Und hier der fertige Empfänger. Für den Sender muss ich leider noch mal auf Ferrite Beads warten weil in der ersten Lieferung nur einfache Widerstände enthalten waren. Also noch mal neu geordert bei einem anderen Lieferanten. 
+
+<img src="./pictures/receiver_ready.jpeg" width="960"> 
+
+
+Sich das verlöten unter dem Mikroskop anzuschauen ist seltsam befriedigend und will ich Euch nicht vorenthalten :) 
+
+[![Watch the video](https://img.youtube.com/vi/-KurLvUTaSc/maxresdefault.jpg)](https://youtu.be/-KurLvUTaSc)
+
+### [Soldering process on YouTube](https://youtu.be/-KurLvUTaSc)
+
+
+
+
