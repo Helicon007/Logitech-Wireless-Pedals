@@ -3438,7 +3438,7 @@
 				)
 				(uuid "138c49d7-65f3-4f2b-b8b8-e07eae41788f")
 			)
-			(table_cell "1k5"
+			(table_cell "~500Ω"
 				(exclude_from_sim no)
 				(at 50.8 165.1 0)
 				(size 16.51 2.794)
@@ -3762,7 +3762,7 @@
 				)
 				(uuid "152dfaec-3009-4dcf-ba7c-51c0a12a3f08")
 			)
-			(table_cell "AMS1117-3.3"
+			(table_cell "HT7333"
 				(exclude_from_sim no)
 				(at 50.8 180.34 0)
 				(size 16.51 2.794)
