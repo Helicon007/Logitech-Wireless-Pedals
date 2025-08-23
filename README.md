@@ -113,6 +113,6 @@ Sich das verlöten unter dem Mikroskop anzuschauen ist seltsam befriedigend und 
 
 ### [Soldering process on YouTube](https://youtu.be/-KurLvUTaSc)
 
-
+P.P.S: 23.08.2025: Der AMS1117 Spannungsregler entpuppt sich als Designfehler. Der Spannungsabfall >1V macht ihn für Eingangsspannungen von >5V geeignet, nicht aber für einen Lithium Akku. Geeignete LDO Regler wie der HT7333 haben den Vin und Vout leider vertauscht, ich habe kein Pinkompatibles SOP-233 Bauteil gefunden weshalb ich die Senderplatine noch mal verändern muss. Die Bilder oben zeigen noch die Version 0.1 mit dem AMS1117.
 
 
